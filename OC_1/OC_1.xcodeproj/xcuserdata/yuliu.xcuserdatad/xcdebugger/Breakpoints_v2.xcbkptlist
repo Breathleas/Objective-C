@@ -16,7 +16,7 @@
             startingLineNumber = "51"
             endingLineNumber = "51"
             landmarkName = "-setAge:"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -32,7 +32,7 @@
             startingLineNumber = "73"
             endingLineNumber = "73"
             landmarkName = "-getName"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -48,7 +48,7 @@
             startingLineNumber = "39"
             endingLineNumber = "39"
             landmarkName = "-initWithAge:andHeight:"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>

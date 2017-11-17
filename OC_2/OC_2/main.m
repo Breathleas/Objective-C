@@ -7,11 +7,15 @@
 //
 
 #import <Foundation/Foundation.h>
-
-int main(int argc, const char * argv[]) {
-	@autoreleasepool {
-	    // insert code here...
-	    NSLog(@"Hello, World!");
-	}
+#import "Mac.h"
+#import "XiaoMing.h"
+int main(int argc, const char * argv[])
+{
+    {
+        XiaoMing *xiaoming = [[XiaoMing alloc] init];
+        Mac *mac = [[Mac alloc] init];
+        [xiaoming studyOCWith:mac];
     return 0;
+        
+    }
 }
